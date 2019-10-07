@@ -7,3 +7,9 @@
 * Add icons to the front of each paragraph element.
 * Add appropriate icons after each possible review. 
 * Resize the icons on the page.
+
+
+* Desktop
+![alt-text](/images/reference-image-desktop.png "Reference Image Desktop")
+* Mobile
+![alt-text](/images/reference-image-mobile.png "Reference Image Desktop")
