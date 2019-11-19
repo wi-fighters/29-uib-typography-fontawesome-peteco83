@@ -3,5 +3,17 @@
     list-style: none;
 }
 
+h1 {
+    text-decoration: underline;
+    text-align: center;
+}
 
+.review {
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px grey;
+}
 
+i {
+    font-size: 30px;
+}
